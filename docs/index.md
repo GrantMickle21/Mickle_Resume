@@ -20,7 +20,8 @@ __Brigham Young University - Idaho__ | Rexburg, ID
 
 ## Skills
 
-__Coding experience__ | 5 years experience
+`2015-present`
+__Coding experience__ | 5 years experience total
 
 - Java - basic knowledge and experience (2 years)
 - C++ - basic knowledge and experience  (2 years)
