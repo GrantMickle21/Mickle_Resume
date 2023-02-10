@@ -5,7 +5,7 @@ title: Grant Mickle's Resume
 # Grant Mickle
 
 <div id="webaddress">
-<a href="grant.mickle21@gmail.com">grant.mickle21@gmail.com</a> | <a href="https://github.com/GrantMickle21">GitHub</a> | <a href="https://www.linkedin.com/in/grant-mickle-097486212/">LinkedIn</a></div>
+grant.mickle21@gmail.com | <a href="https://github.com/GrantMickle21">GitHub</a> | <a href="https://www.linkedin.com/in/grant-mickle-097486212/">LinkedIn</a></div>
 
 
 ## Skills
